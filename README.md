@@ -2,7 +2,7 @@
 
 PROJECT DESCRIPTION
 
-This project creates a simple ray tracer in C++.
+This project creates a simple ray tracer in C++ following the book Ray Tracing in One Weekend.
 
 
 THE CODE
@@ -12,7 +12,7 @@ Several custom header files are included. The vec3.h header file creates a class
 
 FUTURE IMPROVEMENTS
 
-This is still a WIP.
+The Ray Tracing The Next Week and Ray Tracing The Rest of Your Life books build on this project, and offer improvements to the code here.
 
 
 REQUIREMENTS
@@ -22,4 +22,5 @@ I used Visual Studio Code with the necessary C++ extensions. The compiler I used
 
 CREDITS
 
-Following the code from https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Ray Tracing in One Weekend. raytracing.github.io/books/RayTracingInOneWeekend.html
+Accessed 18 Nov. 2023.
